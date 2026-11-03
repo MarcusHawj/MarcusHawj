@@ -20,3 +20,9 @@ I'm a Computer Science student at **Concordia University St. Paul** (B.S., expec
 - **[Arena](https://github.com/MarcusHawj/Arena)**: A first-person arena shooter built from scratch in C++17 and OpenGL, with hand-written rendering, physics, enemy AI, and procedurally generated sound effects (no binary assets).
 - **[WordDrop](https://github.com/MarcusHawj/WordDrop)**: A real-time multiplayer party game for 3–10 players, built with React Native, Expo, and Firebase.
 - **DSA Visualizer**: An interactive Java Swing app that animates 8 sorting algorithms plus BFS/DFS graph traversal step by step.
+
+## 🌱 Currently Learning
+
+- Multiplayer networking and client-server game architecture
+- Graphics programming and game engine fundamentals
+- Machine learning with PyTorch
