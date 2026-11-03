@@ -33,3 +33,8 @@ I'm a Computer Science student at **Concordia University St. Paul** (B.S., expec
 - 💼 LinkedIn: [linkedin.com/in/marcus-her](https://linkedin.com/in/marcus-her)
 - 🌐 Portfolio: [marcushawj.github.io](https://marcushawj.github.io)
 - ✉️ Email: marcusher@hotmail.com
+
+## 🎸 Beyond the Code
+
+When I'm not programming, I'm making music. I play **drums, guitar, piano, and bass**, I've played in a band, and I produce my own tracks. Building a song and building software feel a lot alike to me: lots of layers, lots of iteration, and a great feeling when it all clicks.
+
