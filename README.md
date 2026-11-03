@@ -26,3 +26,10 @@ I'm a Computer Science student at **Concordia University St. Paul** (B.S., expec
 - Multiplayer networking and client-server game architecture
 - Graphics programming and game engine fundamentals
 - Machine learning with PyTorch
+
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/marcus-her](https://linkedin.com/in/marcus-her)
+- 🌐 Portfolio: [marcushawj.github.io](https://marcushawj.github.io)
+- ✉️ Email: marcusher@hotmail.com
